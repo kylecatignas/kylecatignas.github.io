@@ -33,7 +33,7 @@ h5 {
 
 
 #greet {
-    width:225vh;
+    width:222vh;
     background-image: url(dark.jpg);
 }
 
@@ -42,7 +42,7 @@ h5 {
 }
 
 #option {
-    width:225vh;
+    width:222vh;
     font-family: 'Nanum Myeongjo', serif;
     background-image: url(white.jpg);
 }
@@ -61,7 +61,7 @@ h5 {
 }
 
 #check {
-    width:225vh;
+    width:222vh;
     height:40vh;
     font-family: 'Playfair Display SC', serif;
     background-image: url(choose.jpg);
@@ -85,7 +85,7 @@ h5 {
 /******About Us******/
 
 #com {
-    width:210vh;
+    width:210.5vh;
     font-family: 'EB Garamond', serif;
     background-image: url(cont.jpg);
 }
