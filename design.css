@@ -33,7 +33,7 @@ h5 {
 
 
 #greet {
-    width:222vh;
+    width:225vh;
     background-image: url(dark.jpg);
 }
 
@@ -42,7 +42,7 @@ h5 {
 }
 
 #option {
-    width:222vh;
+    width:225vh;
     font-family: 'Nanum Myeongjo', serif;
     background-image: url(white.jpg);
 }
@@ -61,7 +61,7 @@ h5 {
 }
 
 #check {
-    width:222vh;
+    width:225vh;
     height:40vh;
     font-family: 'Playfair Display SC', serif;
     background-image: url(choose.jpg);
@@ -75,7 +75,7 @@ h5 {
 /******Create Page******/
 
 #choose {
-    width:225vh;
+    width:230vh;
     height:100vh;
       font-family: 'Nanum Myeongjo', serif;
     background-image: url(white.jpg)
@@ -99,7 +99,7 @@ h3 {
 }
 
 #kyle {
-     width:220vh;
+     width:225vh;
     font-family: 'EB Garamond', serif;
     background-image: url(grad.jpg);
 }
@@ -109,7 +109,7 @@ h3 {
 }
 
 #con {
-    width:220vh;
+    width:225vh;
     height:53vh;
     font-family: 'Cinzel', serif;
     background-image: url(flowers.jpg)
@@ -118,8 +118,8 @@ h3 {
 /******Romantic Red******/
 
 #red1 {
-    width:225vh;
-    height:160vh;
+    width:230vh;
+    height:165vh;
     font-family: 'Nanum Myeongjo', serif;
     background-image: url(reds.jpg);
 }
@@ -128,8 +128,8 @@ h3 {
 /******Breezy Blue******/
 
 #blue1 {
-    width:225vh;
-    height: 160vh;
+    width:230vh;
+    height: 165vh;
     font-family: 'Nanum Myeongjo', serif;
     background-image: url(blues.jpg);
 }
@@ -138,8 +138,8 @@ h3 {
 /******Grateful Green******/
 
 #green1 {
-    width:225vh;
-    height:160vh;
+    width:230vh;
+    height:165vh;
     font-family: 'Nanum Myeongjo', serif;
     background-color:#18FF6D;
     background-image: url(greens.jpg);
