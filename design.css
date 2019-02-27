@@ -1,0 +1,173 @@
+/******Homepage******/
+
+#one {
+width:25vh;
+height:100vh;
+font-family: 'Cinzel', serif;
+background-image: url(gif1.gif)
+}
+
+h1 {
+    color: #FFA69E;
+   font-family: 'Lora', serif;
+    font-size:35
+}
+
+h2 {
+    color: #f8f8f8;
+}
+
+#greetings {
+    font-size: 20;
+   font-family: 'EB Garamond', serif;
+    color: #ffffff;
+}
+
+h5 {
+    color:#d13939;
+    font-size: 35
+   font-family: 'Cinzel', serif;
+}
+
+ 
+
+
+#greet {
+    width:210vh;
+    background-image: url(dark.jpg);
+}
+
+#pic {
+    border-radius: 100%;
+}
+
+#option {
+    width:210vh;
+    font-family: 'Nanum Myeongjo', serif;
+    background-image: url(white.jpg);
+}
+
+
+#r {
+    border-radius: 10%;
+}
+
+#b {
+    border-radius: 10%;
+}
+
+#g {
+    border-radius: 10%;
+}
+
+#check {
+    width:210vh;
+    height:40vh;
+    font-family: 'Playfair Display SC', serif;
+    background-image: url(choose.jpg);
+}
+
+#cho {
+    color:#af3737;
+}
+
+
+/******Create Page******/
+
+#choose {
+    width:215vh;
+    height:100vh;
+      font-family: 'Nanum Myeongjo', serif;
+    background-image: url(white.jpg)
+}
+
+
+/******About Us******/
+
+#com {
+    width:210vh;
+    font-family: 'EB Garamond', serif;
+    background-image: url(cont.jpg);
+}
+
+#comp {
+    border-radius: 100%;
+}
+
+h3 {
+    color:#ff0080;
+}
+
+#kyle {
+     width:210vh;
+    font-family: 'EB Garamond', serif;
+    background-image: url(grad.jpg);
+}
+
+#grad {
+    border-radius: 40%;
+}
+
+#con {
+    width:210vh;
+    height:53vh;
+    font-family: 'Cinzel', serif;
+    background-image: url(flowers.jpg)
+}
+
+/******Romantic Red******/
+
+#red1 {
+    width:215vh;
+    height:150vh;
+    font-family: 'Nanum Myeongjo', serif;
+    background-image: url(reds.jpg);
+}
+
+
+/******Breezy Blue******/
+
+#blue1 {
+    width:210vh;
+    height: 150vh;
+    font-family: 'Nanum Myeongjo', serif;
+    background-image: url(blues.jpg);
+}
+
+
+/******Grateful Green******/
+
+#green1 {
+    width:210vh;
+    height:150vh;
+    font-family: 'Nanum Myeongjo', serif;
+    background-color:#18FF6D;
+    background-image: url(greens.jpg);
+}
+
+
+/******Download Page******/
+
+#down {
+    width:198.5vh;
+    height:100vh ;
+    font-family: 'Playfair Display SC', serif;
+    background-image: url(abc.jpg);
+}
+
+#dl {
+    border-radius: 100%;
+}
+
+/******Error Page******/
+
+#error {
+    width:220vh;
+    height:100vh ;
+    font-family: 'Playfair Display SC', serif;
+    background-image: url(abc.jpg);
+}
+
+#back {
+    color:#af3737;
+}
