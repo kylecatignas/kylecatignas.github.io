@@ -85,7 +85,7 @@ h5 {
 /******About Us******/
 
 #com {
-    width:210.5vh;
+    width:210vh;
     font-family: 'EB Garamond', serif;
     background-image: url(cont.jpg);
 }
@@ -99,7 +99,7 @@ h3 {
 }
 
 #kyle {
-     width:221vh;
+     width:220.5vh;
     font-family: 'EB Garamond', serif;
     background-image: url(grad.jpg);
 }
@@ -109,7 +109,7 @@ h3 {
 }
 
 #con {
-    width:221vh;
+    width:220.5vh;
     height:53vh;
     font-family: 'Cinzel', serif;
     background-image: url(flowers.jpg)
